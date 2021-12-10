@@ -1,0 +1,10 @@
+body {
+  background-color: lemonchiffon;
+  font-family: system-ui;
+}
+
+hr {
+  border: none;
+  border-style: dotted;
+  border: 2px;
+}
